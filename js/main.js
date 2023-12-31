@@ -6,7 +6,6 @@ import initLazyLoad from "./layouts/lazyload.js";
 import initScrollTopBottom from "./tools/scrollTopBottom.js";
 import initLocalSearch from "./tools/localSearch.js";
 import initCopyCode from "./tools/codeBlock.js";
-
 export const main = {
   themeInfo: {
     theme: `Redefine v${theme.version}`,
