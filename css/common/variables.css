@@ -1,11 +1,11 @@
 :root {
-  --background-color: #fff;
+  --background-color: rgba(255,255,255,0.2);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: #fafafa;
-  --third-background-color: #f7f7f7;
+  --second-background-color: rgba(250,250,250,0.2);
+  --third-background-color: rgba(247,247,247,0.2);
   --third-background-color-transparent: rgba(241,241,241,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
@@ -47,13 +47,13 @@
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: #fff;
+    --background-color: rgba(255,255,255,0.2);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: #fafafa;
-    --third-background-color: #f7f7f7;
+    --second-background-color: rgba(250,250,250,0.2);
+    --third-background-color: rgba(247,247,247,0.2);
     --third-background-color-transparent: rgba(241,241,241,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
@@ -144,13 +144,13 @@
   }
 }
 .light-mode {
-  --background-color: #fff;
+  --background-color: rgba(255,255,255,0.2);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: #fafafa;
-  --third-background-color: #f7f7f7;
+  --second-background-color: rgba(250,250,250,0.2);
+  --third-background-color: rgba(247,247,247,0.2);
   --third-background-color-transparent: rgba(241,241,241,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
