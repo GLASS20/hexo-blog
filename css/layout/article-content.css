@@ -239,14 +239,6 @@
 }
 .post-page-container {
   gap: 0px;
-}
-@media (max-width: 640px) {
-  .post-page-container {
-    overflow-x: hidden;
-  }
-}
-.post-page-container.show-toc {
-  gap: 30px;
   width: 100%;
   transition: width 0.2s ease;
   padding: 0;
@@ -255,6 +247,14 @@
   background: var(--background-color);
   margin-bottom: 30px;
   box-shadow: var(--redefine-box-shadow);
+}
+@media (max-width: 640px) {
+  .post-page-container {
+    overflow-x: hidden;
+  }
+}
+.post-page-container.show-toc {
+  gap: 30px;
 }
 .post-page-container.show-toc .toc-content-container {
   display: block;
