@@ -6384,6 +6384,7 @@ html.is-animating .scroll-progress-bar {
   min-height: 100vh;
   overflow: hidden;
   will-change: transform;
+  text-shadow: -1px -1px #fff, 1px 3px rgba(51,51,51,0.74);
 }
 .home-banner-container .content {
   position: relative;
