@@ -1,11 +1,11 @@
 :root {
-  --background-color: #fff;
+  --background-color: rgba(255,255,243,0.898);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: #fafafa;
-  --third-background-color: #f7f7f7;
+  --second-background-color: rgba(255,255,233,0.898);
+  --third-background-color: rgba(255,255,228,0.898);
   --third-background-color-transparent: rgba(241,241,241,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
@@ -47,13 +47,13 @@
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: #fff;
+    --background-color: rgba(255,255,243,0.898);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: #fafafa;
-    --third-background-color: #f7f7f7;
+    --second-background-color: rgba(255,255,233,0.898);
+    --third-background-color: rgba(255,255,228,0.898);
     --third-background-color-transparent: rgba(241,241,241,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
@@ -96,13 +96,13 @@
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --background-color: #202124;
+    --background-color: rgba(32,33,36,0.898);
     --background-color-transparent: rgba(32,33,36,0.4);
     --background-color-transparent-15: rgba(32,33,36,0.15);
     --background-color-transparent-40: rgba(32,33,36,0.4);
     --background-color-transparent-80: rgba(32,33,36,0.8);
-    --second-background-color: #242529;
-    --third-background-color: #292b2f;
+    --second-background-color: rgba(36,37,41,0.898);
+    --third-background-color: rgba(41,43,47,0.898);
     --third-background-color-transparent: rgba(32,33,36,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #d2d2d7;
@@ -118,7 +118,7 @@
     --shadow-hover-color: rgba(69,69,69,0.28);
     --scrollbar-color: #898989;
     --scrollbar-color-hover: #a1a1a1;
-    --scroll-bar-bg-color: #2a2c30;
+    --scroll-bar-bg-color: rgba(42,44,48,0.898);
     --link-color: #c5c5cc;
     --copyright-info-color: #a30029;
     --avatar-background-color: #005cb8;
@@ -144,13 +144,13 @@
   }
 }
 .light-mode {
-  --background-color: #fff;
+  --background-color: rgba(255,255,243,0.898);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: #fafafa;
-  --third-background-color: #f7f7f7;
+  --second-background-color: rgba(255,255,233,0.898);
+  --third-background-color: rgba(255,255,228,0.898);
   --third-background-color-transparent: rgba(241,241,241,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
@@ -191,13 +191,13 @@
   --mermaid-theme: '';
 }
 .dark-mode {
-  --background-color: #202124;
+  --background-color: rgba(32,33,36,0.898);
   --background-color-transparent: rgba(32,33,36,0.4);
   --background-color-transparent-15: rgba(32,33,36,0.15);
   --background-color-transparent-40: rgba(32,33,36,0.4);
   --background-color-transparent-80: rgba(32,33,36,0.8);
-  --second-background-color: #242529;
-  --third-background-color: #292b2f;
+  --second-background-color: rgba(36,37,41,0.898);
+  --third-background-color: rgba(41,43,47,0.898);
   --third-background-color-transparent: rgba(32,33,36,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #d2d2d7;
@@ -213,7 +213,7 @@
   --shadow-hover-color: rgba(69,69,69,0.28);
   --scrollbar-color: #898989;
   --scrollbar-color-hover: #a1a1a1;
-  --scroll-bar-bg-color: #2a2c30;
+  --scroll-bar-bg-color: rgba(42,44,48,0.898);
   --link-color: #c5c5cc;
   --copyright-info-color: #a30029;
   --avatar-background-color: #005cb8;
