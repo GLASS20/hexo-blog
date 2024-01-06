@@ -127,14 +127,14 @@
   }
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -175,14 +175,14 @@
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -272,14 +272,14 @@
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -366,14 +366,14 @@
   --mermaid-theme: '';
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -414,14 +414,14 @@
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -511,14 +511,14 @@
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -1178,14 +1178,14 @@ button {
   justify-content: center;
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -1226,14 +1226,14 @@ button {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -1323,14 +1323,14 @@ button {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -1418,7 +1418,7 @@ button {
 }
 :root {
   --code-foreground: #3b4143;
-  --code-background: rgba(255,255,218,0.898);
+  --code-background: rgba(242,242,242,0.9);
   --highlight-background: #fafafa;
   --highlight-foreground: #3b4143;
   --highlight-keyword: #d73a49;
@@ -1441,7 +1441,7 @@ button {
 @media (prefers-color-scheme: light) {
   :root {
     --code-foreground: #3b4143;
-    --code-background: rgba(255,255,218,0.898);
+    --code-background: rgba(242,242,242,0.9);
     --highlight-background: #fafafa;
     --highlight-foreground: #3b4143;
     --highlight-keyword: #d73a49;
@@ -1488,7 +1488,7 @@ button {
 }
 .light-mode {
   --code-foreground: #3b4143;
-  --code-background: rgba(255,255,218,0.898);
+  --code-background: rgba(242,242,242,0.9);
   --highlight-background: #fafafa;
   --highlight-foreground: #3b4143;
   --highlight-keyword: #d73a49;
@@ -1849,14 +1849,14 @@ pre .deletion {
   z-index: 3;
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -1897,14 +1897,14 @@ pre .deletion {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -1994,14 +1994,14 @@ pre .deletion {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -2089,7 +2089,7 @@ pre .deletion {
 }
 :root {
   --code-foreground: #3b4143;
-  --code-background: rgba(255,255,218,0.898);
+  --code-background: rgba(242,242,242,0.9);
   --highlight-background: #fafafa;
   --highlight-foreground: #3b4143;
   --highlight-keyword: #d73a49;
@@ -2112,7 +2112,7 @@ pre .deletion {
 @media (prefers-color-scheme: light) {
   :root {
     --code-foreground: #3b4143;
-    --code-background: rgba(255,255,218,0.898);
+    --code-background: rgba(242,242,242,0.9);
     --highlight-background: #fafafa;
     --highlight-foreground: #3b4143;
     --highlight-keyword: #d73a49;
@@ -2159,7 +2159,7 @@ pre .deletion {
 }
 .light-mode {
   --code-foreground: #3b4143;
-  --code-background: rgba(255,255,218,0.898);
+  --code-background: rgba(242,242,242,0.9);
   --highlight-background: #fafafa;
   --highlight-foreground: #3b4143;
   --highlight-keyword: #d73a49;
@@ -2202,14 +2202,14 @@ pre .deletion {
   --highlight-deletion: #600;
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -2250,14 +2250,14 @@ pre .deletion {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -2347,14 +2347,14 @@ pre .deletion {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -2630,14 +2630,14 @@ html.is-animating .transition-fade {
   transition: 0.4s;
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -2678,14 +2678,14 @@ html.is-animating .transition-fade {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -2775,14 +2775,14 @@ html.is-animating .transition-fade {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -3131,14 +3131,14 @@ html.is-animating .scroll-progress-bar {
   background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -3179,14 +3179,14 @@ html.is-animating .scroll-progress-bar {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -3276,14 +3276,14 @@ html.is-animating .scroll-progress-bar {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -3826,14 +3826,14 @@ html.is-animating .scroll-progress-bar {
   font-size: 1rem;
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -3874,14 +3874,14 @@ html.is-animating .scroll-progress-bar {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -3971,14 +3971,14 @@ html.is-animating .scroll-progress-bar {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -4110,14 +4110,14 @@ html.is-animating .scroll-progress-bar {
   border-image: var(--archive-timeline-last-child-color);
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -4158,14 +4158,14 @@ html.is-animating .scroll-progress-bar {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -4255,14 +4255,14 @@ html.is-animating .scroll-progress-bar {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -4506,14 +4506,14 @@ html.is-animating .scroll-progress-bar {
   color: var(--background-color);
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -4554,14 +4554,14 @@ html.is-animating .scroll-progress-bar {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -4651,14 +4651,14 @@ html.is-animating .scroll-progress-bar {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -4930,14 +4930,14 @@ html.is-animating .scroll-progress-bar {
   }
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -4978,14 +4978,14 @@ html.is-animating .scroll-progress-bar {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -5075,14 +5075,14 @@ html.is-animating .scroll-progress-bar {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -5417,14 +5417,14 @@ html.is-animating .scroll-progress-bar {
   transition: all 0.2s ease;
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -5465,14 +5465,14 @@ html.is-animating .scroll-progress-bar {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -5562,14 +5562,14 @@ html.is-animating .scroll-progress-bar {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -5747,14 +5747,14 @@ html.is-animating .scroll-progress-bar {
   margin-bottom: 0;
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -5795,14 +5795,14 @@ html.is-animating .scroll-progress-bar {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -5892,14 +5892,14 @@ html.is-animating .scroll-progress-bar {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -6126,14 +6126,14 @@ html.is-animating .scroll-progress-bar {
   color: var(--primary-color);
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -6174,14 +6174,14 @@ html.is-animating .scroll-progress-bar {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -6271,14 +6271,14 @@ html.is-animating .scroll-progress-bar {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -6547,14 +6547,14 @@ html.is-animating .scroll-progress-bar {
   }
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -6595,14 +6595,14 @@ html.is-animating .scroll-progress-bar {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -6692,14 +6692,14 @@ html.is-animating .scroll-progress-bar {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -7064,14 +7064,14 @@ figure.image-caption figcaption {
   color: var(--third-text-color);
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -7112,14 +7112,14 @@ figure.image-caption figcaption {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -7209,14 +7209,14 @@ figure.image-caption figcaption {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -7357,14 +7357,14 @@ figure.image-caption figcaption {
   }
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -7405,14 +7405,14 @@ figure.image-caption figcaption {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -7502,14 +7502,14 @@ figure.image-caption figcaption {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -7802,14 +7802,14 @@ figure.image-caption figcaption {
   color: var(first-text-color);
 }
 :root {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
@@ -7850,14 +7850,14 @@ figure.image-caption figcaption {
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --background-color: rgba(255,255,243,0.898);
+    --background-color: rgba(255,255,255,0.9);
     --background-color-transparent: rgba(255,255,255,0.6);
     --background-color-transparent-15: rgba(255,255,255,0.15);
     --background-color-transparent-40: rgba(255,255,255,0.4);
     --background-color-transparent-80: rgba(255,255,255,0.8);
-    --second-background-color: rgba(255,255,233,0.898);
-    --third-background-color: rgba(255,255,228,0.898);
-    --third-background-color-transparent: rgba(241,241,241,0.6);
+    --second-background-color: rgba(250,250,250,0.9);
+    --third-background-color: rgba(247,247,247,0.9);
+    --third-background-color-transparent: rgba(255,255,255,0.6);
     --primary-color: #ffc0cb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
@@ -7947,14 +7947,14 @@ figure.image-caption figcaption {
   }
 }
 .light-mode {
-  --background-color: rgba(255,255,243,0.898);
+  --background-color: rgba(255,255,255,0.9);
   --background-color-transparent: rgba(255,255,255,0.6);
   --background-color-transparent-15: rgba(255,255,255,0.15);
   --background-color-transparent-40: rgba(255,255,255,0.4);
   --background-color-transparent-80: rgba(255,255,255,0.8);
-  --second-background-color: rgba(255,255,233,0.898);
-  --third-background-color: rgba(255,255,228,0.898);
-  --third-background-color-transparent: rgba(241,241,241,0.6);
+  --second-background-color: rgba(250,250,250,0.9);
+  --third-background-color: rgba(247,247,247,0.9);
+  --third-background-color-transparent: rgba(255,255,255,0.6);
   --primary-color: #ffc0cb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
