@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>服务器信息</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>服务器信息</h1>
+    <img id="icon" src="" alt="icon">
+    <p>在线状态：<span id="online"></span></p>
+    <p>主机名：<span id="host"></span></p>
+    <p>端口号：<span id="port"></span></p>
+    <p>SRV记录：<span id="srv_record"></span></p>
+    <p>版本信息：<span id="version"></span></p>
+    <p>在线玩家数：<span id="players"></span></p>
+    <p>服务器公告：<span id="motd"></span></p>
+</div>
+<script>
+    fetch('https://api.mcstatus.io/v2/status/java/mc.liycxc.link')
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('online').innerText = data.online ? '在线' : '离线';
+            document.getElementById('host').innerText = data.host;
+            document.getElementById('port').innerText = data.port;
+            document.getElementById('srv_record').innerText = `${data.srv_record.host}:${data.srv_record.port}`;
+            document.getElementById('version').innerText = data.version.name_clean;
+            document.getElementById('players').innerText = data.players.online;
+            document.getElementById('motd').innerText = data.motd.clean;
+            document.getElementById('icon').src = data.icon;
+        });
+</script>
+</body>
+</html>
